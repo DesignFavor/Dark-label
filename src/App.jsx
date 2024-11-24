@@ -41,7 +41,7 @@ export default function App() {
 
       {/* Floating Model */}
       <Float floatIntensity={2} speed={2} rotationIntensity={0.5}>
-        <Model url="./model/black.glb" />
+        <Model url="./model/bottle.glb" />
       </Float>
 
       {/* Ground and Shadows */}
